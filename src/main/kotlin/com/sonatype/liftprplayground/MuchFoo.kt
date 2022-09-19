@@ -14,6 +14,6 @@ class MuchFoo {
   }
 
   fun myFunction3() {
-    throw RuntimeException("4")
+  throw RuntimeException("4")
   }
 }
